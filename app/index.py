@@ -7,7 +7,7 @@ mydb = mysql.connector.connect(
     host = app.config['DBHOST'],
     database = app.config['DBNAME'],
     user = app.config['DBUSER'],
-    password = app.config['DBPASSS']
+    password = app.config['DBPASS']
 )
 
 @app.route("/")
