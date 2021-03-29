@@ -15,6 +15,9 @@ Using Infrastructure as a Code (use language and tools of your choice) deploy th
 2. The database runs on a managed service.
 3. The EC2 or GCE instance is in an Auto Scaling Group and runs behind a Load Balancer.
 
+Once the application is running, prepair an infraestructure diagram.
+
 ## Output
 1. Put your code in a github repo.
-2. Share the url and some screenshots proving that the application is running as expected to joe@solana.com 
+2. Share the url and some screenshots proving that the application is running as expected to joe@solana.com
+3. Share the infraestructure diagram you built.
